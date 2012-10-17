@@ -7,7 +7,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 6.59
 dynamic_config: 0
-generated_by: 'Module::Install version 1.06, CPAN::Meta::Converter version 2.120530'
+generated_by: 'Module::Install version 1.06, CPAN::Meta::Converter version 2.112150'
 license: unknown
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -29,4 +29,4 @@ resources:
   homepage: https://github.com/karpet/lucyx-suggester
   license: http://opensource.org/licenses/gpl-license.php
   repository: https://github.com/karpet/lucyx-suggester
-version: 0.001
+version: 0.002
