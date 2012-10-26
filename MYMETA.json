@@ -4,7 +4,7 @@
       "Peter Karman, C<< <karman at cpan.org> >>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.112150",
+   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.120530",
    "license" : [
       "unknown"
    ],
@@ -32,16 +32,16 @@
       },
       "runtime" : {
          "requires" : {
-            "Data::Dump" : 0,
+            "Data::Dump" : "0",
             "Lucy" : "0.003002",
             "Search::Tools" : "0.83",
-            "Test::More" : 0,
-            "Text::Aspell" : 0,
+            "Test::More" : "0",
+            "Text::Aspell" : "0",
             "perl" : "5.008003"
          }
       }
    },
-   "release_status" : "stable",
+   "release_status" : "testing",
    "resources" : {
       "bugtracker" : {
          "web" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=LucyX-Suggester"
@@ -54,5 +54,5 @@
          "url" : "https://github.com/karpet/lucyx-suggester"
       }
    },
-   "version" : "0.002"
+   "version" : "0.003_01"
 }
