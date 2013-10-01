@@ -30,4 +30,4 @@ resources:
   homepage: https://github.com/karpet/lucyx-suggester
   license: http://opensource.org/licenses/gpl-license.php
   repository: https://github.com/karpet/lucyx-suggester
-version: 0.004
+version: 0.005
